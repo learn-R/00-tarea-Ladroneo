@@ -73,14 +73,15 @@ Luego de leer esta breve introducción, debes contestar esta guía:
 
 1. ¿Cuál es tu nombre?
 
-R:
+R: Leonardo Navarro
 
 2. ¿Cuál es la diferencia entre R y RStudio?
 
-
-R:
+R: R es un lenguaje y entorno de programación, con un enfoque a la estadística; mientras que RStudio es un Entorno de Desarrollo Integrado, para facilitar al programador el desarrollo de software.
 
 3. ¿Con qué comando puedes **subir** los cambios del repositorio local al remoto?
+
+R: con el comando Push
 
 4. Crea un .Rproject llamado 00-tarea.Rproject
 
