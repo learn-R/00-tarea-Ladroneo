@@ -77,7 +77,7 @@ R: Leonardo Navarro
 
 2. ¿Cuál es la diferencia entre R y RStudio?
 
-R: R es un lenguaje y entorno de programación, con un enfoque a la estadística; mientras que RStudio es un Entorno de Desarrollo Integrado, para facilitar al programador el desarrollo de software.
+R: R es un lenguaje y entorno de programación, con un enfoque a la estadística; mientras que RStudio es un Entorno de Desarrollo Integrado, un programa para facilitar al programador el desarrollo de software.
 
 3. ¿Con qué comando puedes **subir** los cambios del repositorio local al remoto?
 
